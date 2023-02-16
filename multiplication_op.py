@@ -2,4 +2,4 @@
 a=45
 b=10
 c=a*b
-print("Multiplication is:",c)
+print(f"Multiplication of {a} and {b} is {c}")
